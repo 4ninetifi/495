@@ -1,6 +1,7 @@
 # Featured
 
-Selected artworks from others, shared with permission.
+Select visuals from creators I respect.  
+Consent obtained. Admiration shared. Chaos amplified.
 
 ---
 

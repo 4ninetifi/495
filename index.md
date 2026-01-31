@@ -1,4 +1,4 @@
-# Welcome to the Mind of Faisal Shah-e-Jahan
+# Welcome to the Domain
 
 This isn’t a polished brand.  
 It isn’t a corporate playground.  
@@ -7,7 +7,7 @@ It’s a vault of stories, ideas, chaos, and experiments.
 Some things are finished. Some things are barely alive.  
 Some ideas will hit you. Some will haunt you.  
 
-Enter if you dare. Or scroll back if you can’t handle the truth.
+Enter if you dare. Or scroll back if you can’t handle plain text.
 
 ## Navigate
 

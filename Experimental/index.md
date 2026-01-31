@@ -1,6 +1,7 @@
 # Experimental
 
-Ideas, concepts, and commissions—work in progress and experiments.
+The playground of half-formed ideas, insane theories, and occasional brilliance.  
+Some of this may hurt your brain. Some may set it on fire.  
 
 ## Sections
 

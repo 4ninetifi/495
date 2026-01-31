@@ -1,6 +1,7 @@
 # Studio
 
-The one-man production studio, powered by AI, Curiosity and ideas.
+Studio 4ninitifi — powered by one human and one AI.  
+No team. No budget. No excuses. Just work, chaos, and creation.
 
 ---
 

@@ -1,6 +1,7 @@
 # Drawings
 
-Handmade sketches and digital drawings.
+Lines, strokes, and shapes that scream the stories words can’t.  
+Some are sketches. Some are worlds.
 
 ---
 

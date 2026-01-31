@@ -1,6 +1,7 @@
 # CompletedStories
 
-Finished works ready for readers.
+Finished works that survived the chaos.  
+Read. Judge. Feel. Repeat.
 
 ---
 

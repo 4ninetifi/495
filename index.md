@@ -3,7 +3,7 @@
 A living digital library.  
 Stories, experiments, and unfinished ideations.
 
-→ [[Library/index]]
-→ [[Art Gallery/index]]
-→ [[Experimental/index]]
-→ [[About/index]]
+→ [Library](/Library/)
+→ [Art Gallery](/Art%20Gallery/)
+→ [Experimental](/Experimental/)
+→ [About](/About/)

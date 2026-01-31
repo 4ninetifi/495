@@ -1,6 +1,7 @@
 # Journey
 
-The path, struggles, and milestones that shaped the creative process.
+One man. One vision. Too many roadblocks.  
+Every step carved, every mistake noted, every victory whispered.
 
 ---
 

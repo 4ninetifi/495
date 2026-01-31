@@ -1,6 +1,7 @@
 # Author
 
-Insights into the person behind the creations.
+The mind behind the words, the chaos, and the experiments.  
+Sometimes calm. Often decisive. Always dangerous to assumptions.
 
 ---
 

@@ -1,6 +1,7 @@
 # Updates
 
-Continuous updates, changes, and thoughts about the author and studio.
+Everything is evolving, including me.  
+Expect shifts, rewrites, and sudden sparks of insight.
 
 ---
 

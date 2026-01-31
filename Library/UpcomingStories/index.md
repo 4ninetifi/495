@@ -1,6 +1,7 @@
 # UpcomingStories
 
-Stories that are planned and will appear soon.
+What’s next. Coming soon.  
+Be patient, or impatient. I don’t care.
 
 ---
 

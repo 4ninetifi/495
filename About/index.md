@@ -8,7 +8,7 @@ The mind, the journey, the studio, the updates—this is where I let you in.
 - [Author](Author/)
 - [Journey](Journey/)
 - [Studio](Studio/)
-- [Updated](Updates/)
+- [Updates](Updates/)
 
 ---
 

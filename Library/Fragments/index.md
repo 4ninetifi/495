@@ -1,6 +1,7 @@
 # Fragments
 
-Partial works, ideas, or notes that are incomplete.
+Partial thoughts, experimental drafts, unfinished stories.  
+A peek into the chaos before it becomes structured.
 
 ---
 
